@@ -1,4 +1,6 @@
-
+.data__list{
+    max-width: 485px;   
+}
 
 .item__delete{
     width: max-content;
