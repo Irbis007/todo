@@ -5,6 +5,7 @@
 .item__delete{
     width: max-content;
     height: max-content;
+    z-index: 100;
 }
 
 .data__subitem label{
