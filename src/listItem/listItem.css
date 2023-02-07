@@ -1,6 +1,6 @@
 
 .list__item .list{
-    width: 100%;
+    width: max-content;
     display: flex;
     padding-top: 20px;
     border-top: 1px solid grey;
