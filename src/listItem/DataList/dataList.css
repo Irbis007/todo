@@ -6,6 +6,7 @@
     width: max-content;
     height: max-content;
     z-index: 100;
+    color: black;
 }
 
 .data__subitem label{
